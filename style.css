@@ -9,3 +9,12 @@
     text-align: left;
 }
 
+#google-play-badge {
+    width: 162px;
+    height: 48px;
+}
+
+#app-store-badge {
+    width: 162px;
+    height: 48px;
+}
